@@ -18,3 +18,5 @@ I'm a Master's student in Management and Computer Science with a focus on AI and
 6. [demand-prediction](https://github.com/mistermakc/demand-prediction) - Public (Jupyter Notebo&#8203;``oaicite:{"number":1,"metadata":{"title":"mistermakc (Max Heilingbrunner) · GitHub","url":"https://github.com/mistermakc","text":"Pinned \n\n  1.  api-dashboard Public\n\nJupyter Notebook\n\n  2.  flight-delay-prediction Public\n\nJupyter Notebook\n\n  3.  housing-price-prediction Public\n\nJupyter Notebook\n\n  4.  bootstrap-website Public\n\nHTML  1  \n\n  5.  streamlit-dashboard Public\n\nJupyter Notebook\n\n  6.  demand-prediction Public","pub_date":null}}``&#8203;ce】
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
+
+
