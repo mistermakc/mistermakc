@@ -1,6 +1,7 @@
 <div align="center">
-  ![Max VN Pitch Slam](https://github.com/mistermakc/mistermakc/raw/master/assets/60471340/95824182-03db-4744-9cf3-0f6e625885a6)
+  ![Max VN Pitch Slam (Github)](https://github.com/mistermakc/mistermakc/assets/60471340/7f12e072-e94e-419f-a47b-f804b74c86f7)
 </div>
+
 
 
 ###
