@@ -54,12 +54,12 @@
 
 ###
 
-- [Streamlit Dashboard with Api](https://github.com/mistermakc/api-dashboard) (Jupyter Notebook) - A dashboard using various APIs to gather and visualize data.
+- [Streamlit Dashboard with Api](https://github.com/mistermakc/api-dashboard) (Jupyter Notebook) - A dashboard using a MySQL database with a RESTful API to gather and visualize KPIs.
 - [Discount & Pricing Prediction](https://github.com/mistermakc/demand-prediction) (Jupyter Notebook) - Predicting demand based on promotions to estimate potential revenue uplift.
 - [Driver Distraction Classification](https://github.com/mistermakc/driver-distraction-classification) (Jupyter Notebook) - Classifying driver distractions using transfer learning models and Convolutional Neural Networks (CNNs).
 - [Flight Delay Prediction](https://github.com/mistermakc/flight-delay-prediction) (Jupyter Notebook) - Predicting flight delays using historical flight data and machine learning models.
 - [Housing Price Prediction](https://github.com/mistermakc/housing-price-prediction) (Jupyter Notebook) - Using regression models to predict housing prices based on various features.
-- [Bootstrap Website](https://github.com/mistermakc/bootstrap-website) (HTML) - A website built using the Bootstrap framework.
+- [Bootstrap Website](https://github.com/mistermakc/bootstrap-website) (HTML) - A webshop built using the Bootstrap framework with HTML, CSS, and JavaScript.
 - [Streamlit Dashboard](https://github.com/mistermakc/streamlit-dashboard) (Jupyter Notebook) - A data analytics dashboard built using Streamlit.
 
 ###
