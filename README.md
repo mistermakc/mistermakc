@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://github.com/mistermakc/mistermakc/raw/master/assets/60471340/7f12e072-e94e-419f-a47b-f804b74c86f7" alt="Max VN Pitch Slam" />
+  <img width="100%" src="https://github.com/mistermakc/mistermakc/assets/60471340/7f12e072-e94e-419f-a47b-f804b74c86f7" alt="Max VN Pitch Slam" />
 </div>
 
 
