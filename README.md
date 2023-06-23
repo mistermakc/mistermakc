@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170" src="https://indoanalytica.com/static/images/bannerr.gif"  />
+  <img height="170" src="https://github.com/mistermakc/mistermakc/raw/master/assets/60471340/95824182-03db-4744-9cf3-0f6e625885a6" alt="Max VN Pitch Slam" />
 </div>
 
 ###
@@ -35,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" width="52" alt="keras logo"  />
 </div>
 
 ###
